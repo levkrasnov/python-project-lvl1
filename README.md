@@ -1,2 +1,1 @@
-### Hexlet tests and linter status:
-[![Actions Status](https://github.com/levkrasnov/python-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/levkrasnov/python-project-lvl1/actions)
+<a href="https://codeclimate.com/github/levkrasnov/python-project-lvl1/maintainability"><img src="https://api.codeclimate.com/v1/badges/697b72e58f7189e72c01/maintainability" /></a>
